@@ -88,7 +88,10 @@ You are an expert AI researcher and professional technical writer. Your task is 
 * Make the report look like a **professional engineering assignment**
 
 ## Output
-[Generative_AI_LLMs_Report.pdf](https://github.com/user-attachments/files/27087111/Generative_AI_LLMs_Report_Aligned.pdf)
+
+[REPORT.pdf](https://github.com/user-attachments/files/27110596/REPORT.pdf)
+
+
 ## Result
 
 The report was a success. It provides a clear, comprehensive overview of Generative AI and LLMs.It explains the core concepts and the difference between generative and discriminative models. The report details the crucial Transformer architecture and its real-world applications.Finally, it analyzes the impact of scaling on LLMs, highlighting how larger models gain powerful new abilities.
